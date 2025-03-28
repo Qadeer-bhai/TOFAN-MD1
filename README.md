@@ -40,12 +40,12 @@
 
 
    
-  1..DEPLOY ON HEROKU ⤵️
+  ***1..DEPLOY ON HEROKU*** ⤵️
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FQadeer-bhai%2FTOFAN-MD1) 
    
    
-  2..DEPLOY ON RENDER ⤵️
+  ***2..DEPLOY ON RENDER*** ⤵️
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Qadeer-bhai/TOFAN-MD1.git)
 
