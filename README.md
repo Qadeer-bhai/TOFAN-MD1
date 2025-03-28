@@ -50,7 +50,7 @@
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Qadeer-bhai/TOFAN-MD1.git)
 
 
-   3..DEPLOY ON GITHUB ⤵️
+   ***3..DEPLOY ON GITHUB*** ⤵️
 
 
 </details>
